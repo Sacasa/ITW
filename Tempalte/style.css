@@ -1,0 +1,121 @@
+body{
+	margin:0;
+	padding: 0;
+	font-family: 'Ubuntu',serif;
+}
+
+#global{
+
+	width: 1200px;
+	margin: auto;
+	padding: 0;
+
+}
+
+#header{
+
+
+	width: 100%;
+	margin: auto;
+	padding : 0;
+}
+
+#logoTop{
+
+	height: 60px;
+	float: left;
+	padding-bottom: 30px;
+
+}
+
+#menu{
+
+
+	display: inline-block;
+	font-family: 'Raleway', serif;
+	list-style-type: none;
+	padding-left: 0;
+	float: left;
+
+}
+
+#menu li{
+
+	display: inline-block;
+	padding:10px 10px 10px 10px;
+	color: #000066;
+	margin : -3px;
+
+}
+
+#menu li a {
+
+	text-decoration: none;
+	color: #000066;
+
+
+}
+
+#menu li:hover{
+
+	color: white;
+	background-color: #000066;
+	height: 100%;
+
+
+
+
+
+}
+
+#menu li a:hover{
+
+	color: white;
+
+
+}
+
+.bordered{
+
+	border-left: 2px solid #e6e6e6;
+	border-right: 2px solid #e6e6e6;
+
+}
+
+#enveloppeMenu{
+
+	display: inline-block;
+
+}
+
+#enveloppeMenu li{
+
+
+	display: inline-block;
+}
+
+
+#largeimg{
+
+	width: 100%;
+}
+
+#footer{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	width: 100%;
+	padding: auto;
+	background-color: #80bfff;
+	position: absolute;
+	bottom: 0;
+	color: white;
+
+}
+
+#contenuFooter{
+	width: 1000px;
+	margin: 0 auto;
+	padding: auto;
+	text-align: center;
+
+}
