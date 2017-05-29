@@ -179,3 +179,13 @@ body{
 	color: #a6a6a6;
 
 }
+
+.sep{
+
+width: 150px;
+background-color: #00ccff;
+height: 3px;
+margin: auto;
+
+
+}

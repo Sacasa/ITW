@@ -4,7 +4,5 @@ $(document).ready(function(){
     slidesToShow: 3,
     slidesToScroll: 1,
     infinite: true,
-    slidesToShow: 3,
-    slidesToScroll: 3
   });
 });
