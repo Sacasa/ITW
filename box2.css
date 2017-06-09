@@ -1,0 +1,44 @@
+#blo1{
+	width:66.67%;
+}
+
+#blo2{
+	width:33.33%;
+
+
+}
+
+#bloc3{
+	margin-top: 15px;
+
+
+}
+
+#image1{
+	display: flex;
+
+}
+#image2{
+	display: flex;
+	margin-top: 15px;
+
+
+
+}
+
+body{
+	overflow-x: hidden; 
+}
+
+#image-right{
+	display: flex;
+    flex-direction: column;
+	margin-left: 21px;
+	
+
+}
+.bas{
+	margin-left: 21px;
+	
+}
+
